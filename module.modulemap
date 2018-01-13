@@ -1,0 +1,4 @@
+module Cboost [system] {
+  link "boost_system"
+  export *
+}
