@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "Cboost",
-    pkgConfig: "boost_system",
+    pkgConfig: "libboost-all-dev",
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
