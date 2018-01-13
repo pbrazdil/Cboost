@@ -1,4 +1,4 @@
 module Cboost [system] {
-  link "boost_system"
+  link "/usr/lib/x86_64-linux-gnu/libboost_system.so"
   export *
 }
